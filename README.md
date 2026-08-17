@@ -1,5 +1,4 @@
-<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/e1d233f1-e23b-4d63-88fa-161ac54ff8db" /># Solarias-2.2
-
+# Solarias 2.2
 A Language Model Designed To Detect Subtle Misinformation And Fake News With High Accuracy
 
 > [!IMPORTANT]
